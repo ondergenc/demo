@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Personal\\PersonelWebSite\\PersonelWebSite.csproj": {}
+    "C:\\Git\\Personal\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Personal\\PersonelWebSite\\PersonelWebSite.csproj": {
+    "C:\\Git\\Personal\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Personal\\PersonelWebSite\\PersonelWebSite.csproj",
-        "projectName": "PersonelWebSite",
-        "projectPath": "C:\\Git\\Personal\\PersonelWebSite\\PersonelWebSite.csproj",
+        "projectUniqueName": "C:\\Git\\Personal\\Demo\\Demo.csproj",
+        "projectName": "Demo",
+        "projectPath": "C:\\Git\\Personal\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\ONDER.GENC\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Personal\\PersonelWebSite\\obj\\",
+        "outputPath": "C:\\Git\\Personal\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

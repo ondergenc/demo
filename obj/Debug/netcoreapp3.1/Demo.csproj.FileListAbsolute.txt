@@ -1,10 +1,5 @@
 C:\Git\Personal\Demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Git\Personal\Demo\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Git\Personal\Demo\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
-C:\Git\Personal\Demo\bin\Debug\netcoreapp3.1\publish\appsettings.json
-C:\Git\Personal\Demo\bin\Debug\netcoreapp3.1\publish\web.config
-C:\Git\Personal\Demo\bin\Debug\netcoreapp3.1\publish\PersonelWebSite.deps.json
-C:\Git\Personal\Demo\bin\Debug\netcoreapp3.1\publish\PersonelWebSite.runtimeconfig.json
 C:\Git\Personal\Demo\bin\Debug\netcoreapp3.1\Demo.exe
 C:\Git\Personal\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
 C:\Git\Personal\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
